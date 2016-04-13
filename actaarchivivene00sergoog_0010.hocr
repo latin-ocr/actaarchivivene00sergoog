@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./actaarchivivene00sergoog_0010.png"; bbox 0 0 3154 5102; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 7 165 633 336">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 7 165 633 336">
+     <span class='ocr_line' id='line_1_1' title="bbox 7 165 633 336; baseline 0.013 -27"><span class='ocrx_word' id='word_1_1' title='bbox 7 251 17 333; x_wconf 27' lang='grc' dir='ltr'>ις</span> <span class='ocrx_word' id='word_1_2' title='bbox 145 165 633 336; x_wconf 46' lang='lat' dir='ltr'>&amp;mmm</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 33 452 56 526">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 33 452 56 526">
+     <span class='ocr_line' id='line_1_2' title="bbox 33 452 56 526; baseline 0 -41"><span class='ocrx_word' id='word_1_3' title='bbox 33 452 56 526; x_wconf 42' lang='lat' dir='ltr'>&gt;X</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 471 799 1165 1132">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 471 799 1165 1132">
+     <span class='ocr_line' id='line_1_3' title="bbox 511 799 1049 869; baseline -0.011 -5"><span class='ocrx_word' id='word_1_4' title='bbox 511 799 680 864; x_wconf 76' lang='lat' dir='ltr'>Harvard</span> <span class='ocrx_word' id='word_1_5' title='bbox 718 801 856 868; x_wconf 63' lang='lat' dir='ltr'>college</span> <span class='ocrx_word' id='word_1_6' title='bbox 893 801 1049 869; x_wconf 74' lang='lat' dir='ltr'>Library</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 471 891 1165 1047; baseline -0.003 -11"><span class='ocrx_word' id='word_1_7' title='bbox 471 973 670 1041; x_wconf 55' lang='lat' dir='ltr'>&amp;Ohibald</span> <span class='ocrx_word' id='word_1_8' title='bbox 705 891 794 1041; x_wconf 45' lang='grc' dir='ltr'>(3ζὶ</span> <span class='ocrx_word' id='word_1_9' title='bbox 822 911 1003 1039; x_wconf 40' lang='grc' dir='ltr'>Ἕκίᾼῲ</span> <span class='ocrx_word' id='word_1_10' title='bbox 1025 978 1105 1042; x_wconf 81' lang='lat' dir='ltr'>,Ph.</span> <span class='ocrx_word' id='word_1_11' title='bbox 1119 981 1165 1047; x_wconf 74' lang='lat' dir='ltr'>D,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 633 1064 943 1132; baseline -0.013 -8"><span class='ocrx_word' id='word_1_12' title='bbox 633 1064 719 1132; x_wconf 72' lang='lat' dir='ltr'>July</span> <span class='ocrx_word' id='word_1_13' title='bbox 756 1069 791 1131; x_wconf 86' lang='lat'>1,</span> <span class='ocrx_word' id='word_1_14' title='bbox 836 1067 943 1122; x_wconf 58' lang='lat' dir='ltr'>mo·</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1582 5102">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1582 5102">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1582 5102; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 0 0 1582 5102; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
